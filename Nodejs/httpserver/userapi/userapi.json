@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "position": "Software Engineer",
+      "department": "Engineering",
+      "salary": 80000,
+      "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "postal_code": "12345"
+      },
+      "contact": {
+        "email": "john.doe@example.com",
+        "phone": "555-123-4567"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "position": "Product Manager",
+      "department": "Product Management",
+      "salary": 95000,
+      "address": {
+        "street": "456 Oak Ave",
+        "city": "Sometown",
+        "state": "NY",
+        "postal_code": "54321"
+      },
+      "contact": {
+        "email": "jane.smith@example.com",
+        "phone": "555-987-6543"
+      }
+    }
+  ]
